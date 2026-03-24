@@ -17,3 +17,4 @@ Link-Liste zum Themenbereich "Deutsch lernen"
 
 - [Schlaukopf](https://www.schlaukopf.de/)
 - [Schlaukopf: Deutsch 1. Klasse](https://www.schlaukopf.de/grundschule/klasse1/deutsch/)
+- [Schlaukopf: Deutsch 2. Klasse](https://www.schlaukopf.de/grundschule/klasse2/deutsch/)
